@@ -11,7 +11,6 @@
 > linkedin: slimshady98
 > instagram: aadi.tya_._
 > github: aadityaguptaa
-> medium: WillAddSoon
 > mailto: rockonman3@gmail.com
 ````
 
