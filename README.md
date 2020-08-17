@@ -1,16 +1,17 @@
-### Hi there 👋
+````bash
+> help --info
+> A potterhead and greek mythology enthusianst who mainly programs in Java and has recently ventured out into Python. Is
+> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes solving problems on hackerrank.
+> Currently an undergrad@NIE who loves to develop android applications.
+> Also, Azure is cool
+````
 
-<!--
-**aadityaguptaa/aadityaguptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````bash
+> help --contact
+> linkedin: slimshady98
+> instagram: aadi.tya_._
+> github: aadityaguptaa
+> medium: WillAddSoon
+> mailto: rockonman3@gmail.com
+````
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
