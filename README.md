@@ -10,8 +10,8 @@
 > help --contact
 > linkedin: slimshady98
 > instagram: aadi.tya_._
-> github: aadityaguptaa
-> mailto: rockonman3@gmail.com
+> github:  aadityaguptaa
+> mailto:  rockonman3@gmail.com
 ````
 
 
