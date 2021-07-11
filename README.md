@@ -11,7 +11,7 @@
 > linkedin: adityagupta985
 > instagram: aadi.tya_._
 > github:  aadityaguptaa
-> mailto:  rockonman3@gmail.com
+> mailto:  aditya.gupta98528@gmail.com
 ````
 
 
