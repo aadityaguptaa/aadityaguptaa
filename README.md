@@ -14,6 +14,11 @@
 > mailto:  aditya.gupta98528@gmail.com
 ````
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aadityaguptaa/count.svg" />
+</p>
+
 
   
 
