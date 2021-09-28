@@ -29,6 +29,8 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 - 📫 How to reach me: aditya.gupta98528@gmail.com;
 
 ![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=aadityaguptaa&show_icons=true&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaguptaa)](https://git.io/streak-stats)
+
 
        
 ````bash
