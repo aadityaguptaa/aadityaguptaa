@@ -27,8 +27,16 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: aditya.gupta98528@gmail.com;
+<br/>
+<br/>
+<br/>
+                                     
+                                                                                       
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityaguptaa&show_icons=true&count_private=true)](https://github.com/aadityaguptaa/)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&langs_count=3)](https://github.com/aadityaguptaa/)
 
-![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=aadityaguptaa&show_icons=true&hide_border=true)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaguptaa)](https://git.io/streak-stats)
 
 
