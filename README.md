@@ -33,7 +33,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
                                      
                                                                                        
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityaguptaa&show_icons=true&count_private=true)](https://github.com/aadityaguptaa/)
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&langs_count=3)](https://github.com/aadityaguptaa/)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&layout=compact&exclude_repo=languageProcessing&hide=batchfile,html,css)](https://github.com/aadityaguptaa/)
 
 
 
