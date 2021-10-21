@@ -25,8 +25,6 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 - 🛠 Currently working with Kotlin, Java, Firebase, Azure; 
 - 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: aditya.gupta98528@gmail.com;
 <br/>
 <br/>
 <br/>
