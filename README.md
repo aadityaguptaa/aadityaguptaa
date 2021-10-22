@@ -1,6 +1,6 @@
 
 
-### Hey 👋, I'm [Aditya!]
+### Hey 👋, I'm {Aditya!
 
 <a href="https://twitter.com/Fsociety_98_">
   <img align="left" alt="Aditya Gupta" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
