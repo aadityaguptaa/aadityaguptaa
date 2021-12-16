@@ -44,7 +44,6 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 > help --contact
 > linkedin: adityagupta985
 > instagram: aadi.tya_._
-> github:  aadityaguptaa
 > mailto:  aditya.gupta98528@gmail.com
 ````
   
