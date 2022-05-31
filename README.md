@@ -44,7 +44,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 ````bash
 > flex 
 > linkedin: adityagupta985
-> Google Developers Profile: https://g.dev/adityagupta
+> google developers profile: https://g.dev/adityagupta
 > instagram: aadi.tya_._
 > mailto:  aditya.gupta98528@gmail.com
 ````
