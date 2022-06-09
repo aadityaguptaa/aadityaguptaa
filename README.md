@@ -1,7 +1,7 @@
 
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-### Hey 👋, I'm Aditya!
+### Hey 👋, I'm Adita!
 
 <a href="https://twitter.com/Fsociety_98_">
   <img align="left" alt="AdityaGupta" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
