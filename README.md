@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently I'm a 3rd year ISE student @NIE. I am a potterhead and greek mythology enthusiast who mainly programs in Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it.
+Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently I'm a 4th year ISE student @NIE. I am a potterhead and greek mythology enthusiast who mainly programs in Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it.
 
 <br/>
 <br/>
