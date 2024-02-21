@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently, I'm an Associate SWE at Fidelity Investments. I am a Potterhead and greek mythology enthusiast who mainly programs in Type Script and Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it.
+Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently, I'm an Associate SWE at Fidelity Investments. I am a Potterhead and greek mythology enthusiast who mainly programs in Type Script and Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it..
 
 <br/>
 <br/>
