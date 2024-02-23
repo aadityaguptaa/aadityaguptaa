@@ -14,14 +14,14 @@
 <br />
 <br />
 
-Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently, I'm an Associate SWE at Fidelity Investments. I am a Potterhead and greek mythology enthusiast who mainly programs in Type Script and Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it..
+Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Currently, I'm an Associate SWE at Fidelity Investments. I am a Potterhead and Greek mythology enthusiast who mainly programs in TypeScript and Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it.
 
 <br/>
 <br/>
 
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - 👨🏻‍💻 I’m looking to collaborate on cool projects;
@@ -43,7 +43,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
        
 ````bash
 > flex 
-> linkedin: adityagupta985
+> LinkedIn: adityagupta985
 > google developers profile: https://g.dev/adityagupta
 > instagram: aadi.tya_._
 > mailto:  aditya.gupta98528@gmail.com
