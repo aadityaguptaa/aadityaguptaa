@@ -36,7 +36,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&layout=compact&exclude_repo=languageProcessing&hide=batchfile,html,css&count_private=true)](https://github.com/aadityaguptaa/)
 
-
+[![Aditya's github stats](https://leetcode-contribution-calendar-server.onrender.com/generateImage?username=slimshady98)](https://github.com/aadityaguptaa/)
 
 
 
