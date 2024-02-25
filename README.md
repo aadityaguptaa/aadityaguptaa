@@ -17,7 +17,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 <br/>
 <br/>
 
-## My Leetcode Contributions
+## My Leetcode Submissions
 
 <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=slimshady98" width="100%">
 
