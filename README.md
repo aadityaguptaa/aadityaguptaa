@@ -1,4 +1,5 @@
 
+
 ![helllllooooo](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 ### Hey 👋, I'm Aditya!
@@ -36,7 +37,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&layout=compact&exclude_repo=languageProcessing&hide=batchfile,html,css&count_private=true)](https://github.com/aadityaguptaa/)
 
-![LeetCode Contributions](https://leetcode-contribution-calendar-server.onrender.com/generateImage?username=slimshady98)
+<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=slimshady98" width="100%">
 
 
 
