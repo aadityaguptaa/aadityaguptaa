@@ -23,7 +23,7 @@ Hi, I'm Aditya, an Android Developer, who loves exploring different stuff. Curre
 
 **Talking about Personal Stuff:**
 
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
+- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 
 - 👨🏻‍💻 I’m looking to collaborate on cool projects;
 - 💬 Ask me anything, happy to help;
 <br/>
