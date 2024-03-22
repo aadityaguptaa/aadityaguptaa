@@ -2,7 +2,7 @@
 ### Hey 👋, I'm Aditya!
 
 <a href="https://twitter.com/dunder_miffflin">
-  <img align="left" alt="AdityaGupta" | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="AdityaGuptta" | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/adityagupta985/">
   <img align="left" alt="Aditya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
