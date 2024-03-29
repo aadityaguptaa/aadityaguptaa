@@ -21,9 +21,7 @@ Hi, I'm Aditya, a Developer, who loves exploring different stuff. Currently, I'm
 
   <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-**Talking about Personal Stuff:**
 
-- 👨‍💻 Mostly working on ❤️Android ❤️Kotlin 
 - 👨🏻‍💻 I’m looking to collaborate on cool projects;
 - 💬 Ask me anything, happy to help;
 <br/>
