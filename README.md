@@ -42,7 +42,6 @@ Hi, I'm Aditya, a Developer, who loves exploring different stuff. Currently, I'm
 
        
 ````bash
-> flex 
 > LinkedIn: adityagupta985
 > google developers profile: https://g.dev/adityagupta
 > instagram: aadi.tya_._
