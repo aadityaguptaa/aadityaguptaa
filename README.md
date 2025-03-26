@@ -23,7 +23,7 @@ Hi, I'm Aditya, a Software Engineer passionate about exploring new technologies.
 
 
 - 👨🏻‍💻 I’m looking to collaborate on cool projects;
-- 💬 Ask me anything, happy to help;
+- 💬 happy to help;
 <br/>
 <br/>
 <br/>
