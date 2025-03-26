@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya, a Developer, who loves exploring different stuff. Currently, I'm an Associate SWE at Fidelity Investments.I am a Potterhead who mainly programs in js/ts and Kotlin. I am also trying out ML to see what all the fuss is about and might actually ❤ it.
+Hi, I'm Aditya, a Software Engineer passionate about exploring new technologies. Currently, I work as a Software Engineer at Fidelity Investments. I primarily code in JavaScript, TypeScript, and Kotlin. Lately, I've been diving into Machine Learning to see what all the buzz is about — and I might just end up loving it!
 
 <br/>
 <br/>
