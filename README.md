@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya, a Software Engineer passionate about exploring new technologies. Currently, I work as a Software Engineer at Fidelity Investments. I primarily code in JavaScript, TypeScript, and Kotlin. Lately, I've been diving into Machine Learning to see what all the buzz is about — and I might just end up loving it!
+Hi, I'm Aditya, a passionate Software Engineer who loves anything and everything related to computers. I'm currently working as a Full-Stack Software Engineer and deploying bugs 😶‍🌫️ at Fidelity Investments. I'm looking to collaborate on cool projects, so feel free to hit me up!
 
 <br/>
 <br/>
@@ -28,16 +28,6 @@ Hi, I'm Aditya, a Software Engineer passionate about exploring new technologies.
 <br/>
 <br/>
                                      
-                                                                                       
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aadityaguptaa&show_icons=true&count_private=true)](https://github.com/aadityaguptaa/)
-       [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadityaguptaa)](https://git.io/streak-stats)
-
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaguptaa&show_icons=true&layout=compact&exclude_repo=languageProcessing&hide=batchfile,html,css&count_private=true)](https://github.com/aadityaguptaa/)
-
-## My Leetcode Calendar
-
-<img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=slimshady98" width="100%">
-
 
 
        
