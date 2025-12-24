@@ -12,7 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Aditya, a passionate Software Engineer who loves anything and everything related to computers. I'm currently working as a Full-Stack Software Engineer and deploying bugs 😶‍🌫️ at Fidelity Investments. I'm looking to collaborate on cool projects, so feel free to hit me up!
+Hi, I'm Aditya, a passionate Software Engineer who loves anything and everything related to computers. I'm currently working as a Full-Stack Software Engineer and deploying bugs 😶‍🌫️ at Juspay. 
 
 <br/>
             
